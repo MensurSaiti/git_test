@@ -1,1 +1,1 @@
-# git_test
+This is Mensur first git project!
